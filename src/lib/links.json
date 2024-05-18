@@ -1,0 +1,37 @@
+[
+  {
+    "label": "Browse Voduv.com",
+    "categoryId": "Home",
+    "url": "https://home.voduv.com"
+  },
+
+  {
+    "label": "Movies",
+    "categoryId": "Categories",
+    "url": "https://home.voduv.com/Movies/"
+  },
+
+  {
+    "label": "Series",
+    "categoryId": "Categories",
+    "url": "https://home.voduv.com/Series/"
+  },
+
+  {
+    "label": "Oppenheimer",
+    "categoryId": "Movies",
+    "url": "https://home.voduv.com/Movies/Oppenheimer/"
+  },
+
+  {
+    "label": "NCIS: Sydney",
+    "categoryId": "Series",
+    "url": "https://home.voduv.com/Series/NCIS-Sydney/"
+  },
+
+  {
+    "label": "Shwof.com",
+    "categoryId": "Friends",
+    "url": "https://shwof.com/"
+  }
+]

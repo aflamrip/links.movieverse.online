@@ -1,0 +1,24 @@
+[
+  {
+    "label": "Home",
+    "id": "all"
+  },
+  {
+    "label": "Categories",
+    "id": "Categories"
+  },
+  {
+    "label": "Movies",
+    "id": "Movies"
+  },
+
+  {
+    "label": "Series",
+    "id": "Series"
+  },
+
+  {
+    "label": "Friends",
+    "id": "Friends"
+  }
+]
